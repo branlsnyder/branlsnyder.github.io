@@ -4,7 +4,7 @@ title: Performance
 category: performance
 permalink: /improvisation
 ---
-## I build and perform with laptop-based instruments. 
+<!-- ## I perform live electronics -->
 
 Free improvisation with trio ([Live at The Sanctuary Studios](/trio-joo-xuanqi)).
 
@@ -20,7 +20,7 @@ See more below!
 
 <!--Some of my instruments are available to download. Here is a custom MIDI arpeggiator I use often. -->
 
-# My latest work
+# Projects
 
 <div class="posts-grid">
 {% for post in site.posts %}
