@@ -6,7 +6,8 @@ category: [film, improvisation]
 tags: [live electronics, motion sensor, featured, mugic, dance, featured]
 image: autograft-thumb.webp
 ---
-<iframe src="https://youtu.be/aIRL6pHpSfA?si=-Q2S22ndzzu21MFm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIRL6pHpSfA?si=qC6YB0C1HE29eKxB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 {: .featured-media}
 Dance, film, and installation.
 
@@ -23,7 +24,7 @@ However, in *Autograft* the music is created live, controlled by Taryn's movemen
 
 The music was developed collaboratively between myself and Taryn. Her leg brace was outfitted with a MUGIC motion sensor, which controlled synthesizers, samples, and audio effects programmed in Ableton Live and Max MSP.
 
-# <span class="keywordrand">Behind the Scenes</span>
+## We were a small <span class="keywordrand">interdisciplinary team</span>  of dancers, visual artists, photographers, videographers, and musicians. See behind the scenes here:
 <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/Dc1FXvHmzON/?img_index=1" data-instgrm-version="14"></blockquote>
 <script async src="//www.instagram.com/embed.js"></script>
 
