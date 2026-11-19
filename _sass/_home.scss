@@ -73,6 +73,22 @@
   -webkit-tap-highlight-color: transparent; // Remove tap highlight on mobile
 }
 
+.duo-images {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+  clear: both;
+  margin-top: 1rem;
+
+  // Override the global `body img { float: right }` so the pair stays
+  // in normal flow beneath the heading and next to each other.
+  img {
+    float: none;
+    margin: 0;
+  }
+}
+
 @keyframes gentle-rotate {
   0% {
     rotate: -6deg;
